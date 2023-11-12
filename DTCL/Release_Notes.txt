@@ -1,0 +1,4 @@
+DTCL Vesrion 1.5
+. Added verifcation after Write for D1,D2,D3
+. Write for D2 and D3 is performed on byte count in header
+. After Write Read is performed and Compared, if Compare sucess then Write is declared sucess
