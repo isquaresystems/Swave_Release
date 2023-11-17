@@ -2,3 +2,16 @@ DTCL Vesrion 1.5
 . Added verifcation after Write for D1,D2,D3
 . Write for D2 and D3 is performed on byte count in header
 . After Write Read is performed and Compared, if Compare sucess then Write is declared sucess
+
+DTCL Vesrion 1.6 - Firmware Version 1.0
+. Corrected byte calculations for spj and rwr
+. Added Exit Button as closing is not properly killing the process
+. Added browse path to seletct mps folder
+. Added pending files for D3 in Gui as well as Firmware
+. Added Version number for firmaware in firmware as well as GUI
+. Added secret button on swave logo to read firmware version
+. Added Firware(.elf) to setup file, so that it is installed along with GUI
+. Actual GUI version is displayed as V1.0 as per customer request
+. Added utilities for D3, which will read header information and display
+. Writing for D3 files will be based on checking the header information.
+. Tested on target
