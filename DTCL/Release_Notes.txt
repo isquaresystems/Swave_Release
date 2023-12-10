@@ -22,5 +22,25 @@ DTCL Vesrion 1.7 - Firmware Version 1.2
 . corrected names in performance check log
 . added loopback test to include in with cartridge tests
 
-DTCL Vesrion 1.7 - Firmware Version 1.3
+DTCL Vesrion 1.7 - Firmware Version 1.2
 . Bug Fix for D2 Header check
+
+DTCL Vesrion 1.9 - Firmware Version 1.2
+. Bug Fix for below comments 
+  . Command buttons  should appear after detecting cartridge insertion
+  . The screen below shown is without introducing the cartridge. 
+    The user can press command so you have to indicate in the current status 
+    “ insert cartridge for command initiation” please remove all the command button
+  .  Remove help use CNT D for DCTL Version and checksum and CNT G FOR DTCL GUI VERSION AND CHECKSUM    
+  .  When we press exit popup window should say “ do you want to exit, confirm” message should come
+  .  During performance check  without cartridge test I can do, but if I press cnt p key pc command is not coming
+  .  In performance check below mentioned box should be given for entering text
+  .  During pc command current status window is not appearing. Execution is progress do not introduce or remove cartridge
+  .  Change the exit button color from red to blue 
+  . Change the button font size and current status font size 
+  . During pc command if I select    with cartridge option and cartridge is not present pop up window should come saying insert cartridge
+  . During pc command if I select without cartridge option and if cartridge is present pop up window should come saying remove cartridge
+  . During pc with cartridge option only erase write read button should present hide copy compare button
+  . During pc command selection without cartridge option hide all command button.
+
+  
