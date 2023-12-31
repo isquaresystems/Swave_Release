@@ -43,4 +43,17 @@ DTCL Vesrion 1.9 - Firmware Version 1.2
   . During pc with cartridge option only erase write read button should present hide copy compare button
   . During pc command selection without cartridge option hide all command button.
 
+DTCL Vesrion 2.1 - Firmware Version 1.2
+. Total Design change
+. Added seperate class for trasport and cartridges
+. used oops concepts
+. Modified entire Header info display for d2 and d3.
+
+DTCL Vesrion 2.2 - Firmware Version 1.2
+. changed copy and compare implementation
+. Known Issue, read and write block will not work for D2
+. bug fixed for header check for d2 and d3
+. Interchanged spj and rwr for d2 and d3, to be check again with respect to doc
+. D2, D3 check header to be verified again.
+
   
