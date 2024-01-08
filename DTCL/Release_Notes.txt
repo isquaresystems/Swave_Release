@@ -56,4 +56,10 @@ DTCL Vesrion 2.2 - Firmware Version 1.2
 . Interchanged spj and rwr for d2 and d3, to be check again with respect to doc
 . D2, D3 check header to be verified again.
 
+DTCL Vesrion 2.3 - Firmware Version 1.4
+. Added new feature to write download files in D2
+. Added power recycle in case of failue in CF in firmware
+
+
+
   
