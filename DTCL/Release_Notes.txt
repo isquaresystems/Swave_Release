@@ -68,6 +68,9 @@ DTCL Vesrion 2.5 - Firmware Version 1.5
 . power on green led only if cart is detected, its done via GUI not firmware
 . Darin-1 padding zeros
 
+DTCL Vesrion 2.6 - Firmware Version 1.5
+. minor GUI fix for D3 download
+
 
 
   
