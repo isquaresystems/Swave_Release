@@ -60,6 +60,14 @@ DTCL Vesrion 2.3 - Firmware Version 1.4
 . Added new feature to write download files in D2
 . Added power recycle in case of failue in CF in firmware
 
+DTCL Vesrion 2.5 - Firmware Version 1.5
+. Added new feature to write download files in D3, in firmware and GUI
+. corrcted loopback failure
+. Changed fpl word count from 15 to 21 for download, not sure why its 15 in old dps
+. removed green led on option after power on
+. power on green led only if cart is detected, its done via GUI not firmware
+. Darin-1 padding zeros
+
 
 
   
