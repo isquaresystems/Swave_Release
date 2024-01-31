@@ -76,6 +76,10 @@ DTCL Vesrion 2.7- Firmware Version 1.5
 . added system do events in maintimer for minimize issue
 . fix for writing download files for D2 and D3
 
+DTCL Vesrion 2.8- Firmware Version 1.5
+. Removed system do events in maintimer this is causing problems
+. Main timer interval increased to 1000ms for minimize issue
+
 
 
 
