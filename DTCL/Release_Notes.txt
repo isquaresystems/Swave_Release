@@ -80,6 +80,13 @@ DTCL Vesrion 2.8- Firmware Version 1.5
 . Removed system do events in maintimer this is causing problems
 . Main timer interval increased to 1000ms for minimize issue
 
+DTCL Vesrion 3.0- Firmware Version 1.8
+. Fixed Format Issue for other cartridges in firmware
+. Add performance check status indicator in GUI
+. Fixed bugs related for displaying currect button status
+Known Issue:
+. Green Led is not working after Foramt, to be corrected in next version
+
 
 
 
