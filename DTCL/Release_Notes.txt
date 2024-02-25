@@ -87,7 +87,15 @@ DTCL Vesrion 3.0- Firmware Version 1.8
 Known Issue:
 . Green Led is not working after Foramt, to be corrected in next version
 
-
+DTCL Vesrion 3.1- Firmware Version 1.8
+. Fixed D2 copy Issue
+. Fixed Comapre message issue if cart is blank
+. Added New Buttons "Old Log", "Confirm Log"
+. Disbaled entry of PC test details by default, only enabled if "New Log" is  clicked
+. New Log will be created if "Confirm Log" button is clicked
+. All Pop Up Messages are moved into "PopUpMessages.txt" file, located in same installation path as GUI
+  - User must not delete or introduce new messages.
+  - User can modify only existing messages.
 
 
   
