@@ -97,5 +97,10 @@ DTCL Vesrion 3.1- Firmware Version 1.8
   - User must not delete or introduce new messages.
   - User can modify only existing messages.
 
+DTCL Vesrion 3.2- Firmware Version 1.8
+. Changed bit position of RWR to 4 and spj to 5 as per planning data
+. Bit positions also changed in Message_Records.txt file
+. New fields added for maximum number of nob for each message.
+
 
   
