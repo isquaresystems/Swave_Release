@@ -102,5 +102,9 @@ DTCL Vesrion 3.2- Firmware Version 1.8
 . Bit positions also changed in Message_Records.txt file
 . New fields added for maximum number of nob for each message.
 
+DTCL Vesrion 3.3- Firmware Version 1.9
+. Fixed power cycle issue for D3
+. NOB for incomkey changed to 35
+
 
   
