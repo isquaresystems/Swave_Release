@@ -106,5 +106,8 @@ DTCL Vesrion 3.3- Firmware Version 1.9
 . Fixed power cycle issue for D3
 . NOB for incomkey changed to 35
 
+DTCL Vesrion 3.6- Firmware Version 1.9
+. Added Muktiple Unit testing window with required featrures
+
 
   
