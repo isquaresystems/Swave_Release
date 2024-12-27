@@ -112,5 +112,8 @@ DTCL Vesrion 3.6- Firmware Version 1.9
 DTCL Vesrion 4.0- Firmware Version 1.9
 . Added Muktiple Unit testing window with required featrures as per doc
 
+DTCL Vesrion 7.1- Firmware Version 3.1
+. removed multi unit code, minor fixes
+
 
   
